@@ -56,7 +56,6 @@ Hero Section: components/HeroSection.tsx
 About Us Section: components/AboutUsSection.tsx
 Services Section: components/ServicesSection.tsx
 Footer: components/Footer.tsx
-Update the text, images, or any content as required for your project.
 
 Folder Structure
 Here’s the folder structure for the project:
