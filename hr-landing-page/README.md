@@ -1,7 +1,4 @@
-Here’s a template for your README file based on the requirements of your project:
 
-md
-Copy code
 # Human Resource Landing Page
 
 This is a responsive Human Resource landing page built with **Next.js/React.js** and **Tailwind CSS**. The landing page includes a **Navbar**, **Hero Section**, **About Us Section**, **Services Section**, and **Footer**, all customized with a modern look using a blue, white, and slate color palette.
