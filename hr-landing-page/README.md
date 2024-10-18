@@ -33,7 +33,7 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/human-resource-landing-page.git
+   git clone https://github.com/victot0121/human-resource-landing-page/tree/main/hr-landing-page
 Navigate to the project folder:
 
 bash
