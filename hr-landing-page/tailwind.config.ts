@@ -21,12 +21,12 @@ const config: Config = {
       },
       keyframes: {
         fadeInUp: {
-          '0%': { opacity: 0, transform: 'translateY(20px)' },
-          '100%': { opacity: 1, transform: 'translateY(0)' },
+          '0%': { opacity: '0', transform: 'translateY(20px)' }, // Fixed
+          '100%': { opacity: '1', transform: 'translateY(0)' }, // Fixed
         },
         fadeInDown: {
-          '0%': { opacity: 0, transform: 'translateY(-20px)' },
-          '100%': { opacity: 1, transform: 'translateY(0)' },
+          '0%': { opacity: '0', transform: 'translateY(-20px)' }, // Fixed
+          '100%': { opacity: '1', transform: 'translateY(0)' },  // Fixed
         },
       },
       animation: {
@@ -37,4 +37,5 @@ const config: Config = {
   },
   plugins: [],
 };
+
 export default config;
